@@ -1,0 +1,54 @@
+#container
+{
+	margin: auto;
+	width: 895px;
+	height: 370px;
+	padding: 30px;
+	border:2px solid black;
+}
+#M01,#M02,#M03,#M04,#M06,#M07,#M08,#M09
+{
+	width: 150px;
+	height: 160px;
+	border:2px solid black;
+	float: left;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+#M05,#M10
+{
+	width: 150px;
+	height: 160px;
+	border:2px solid black;
+	float: left;
+	margin-bottom: 30px;
+}
+
+#M01L1,#M01L2,#M01L3,#M01L4,#M01L5,#M01L6,#M01L7,#M01L8,#M01L9,#M01L10,#M01L11,#M01L12,#M01L13,#M01L14,
+#M02L1,#M02L2,#M02L3,#M02L4,#M02L5,#M02L6,#M02L7,#M02L8,#M02L9,#M02L10,#M02L11,#M02L12,#M02L13,#M02L14,
+#M03L1,#M03L2,#M03L3,#M03L4,#M03L5,#M03L6,#M03L7,#M03L8,#M03L9,#M03L10,#M03L11,#M03L12,#M03L13,#M03L14,
+#M04L1,#M04L2,#M04L3,#M04L4,#M04L5,#M04L6,#M04L7,#M04L8,#M04L9,#M04L10,#M04L11,#M04L12,#M04L13,#M04L14
+{
+	width: 73px;
+	height: 21px;
+	border: 1px solid black;
+	float: left;
+	margin: auto;
+	background-color: gray; 
+}
+
+#M05L1,#M05L2,#M05L3,#M05L4,#M05L5,#M05L6,#M05L7,#M05L8,#M05L9,#M05L10,
+#M06L1,#M06L2,#M06L3,#M06L4,#M06L5,#M06L6,#M06L7,#M06L8,#M06L9,#M06L10,
+#M07L1,#M07L2,#M07L3,#M07L4,#M07L5,#M07L6,#M07L7,#M07L8,#M07L9,#M07L10,
+#M08L1,#M08L2,#M08L3,#M08L4,#M08L5,#M08L6,#M08L7,#M08L8,#M08L9,#M08L10,
+#M09L1,#M09L2,#M08L3,#M09L4,#M09L5,#M09L6,#M09L7,#M09L8,#M09L9,#M09L10,
+#M10L1,#M10L2,#M10L3,#M10L4,#M10L5,#M10L6,#M10L7,#M10L8,#M10L9,#M10L10
+{
+	width: 73px;
+	height: 30px;
+	border: 1px solid black;
+	float: left;
+	margin: auto;
+	background-color: gray; 
+}

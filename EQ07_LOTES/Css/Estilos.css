@@ -1,0 +1,61 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body,html{
+	background: url(../Img/fondo.gif) repeat;
+}
+.menu{
+	background: #FFA319;
+	padding: 10px;
+	margin-top: 16px;
+	text-align: center;
+	-webkit-box-shadow: 7px 7px 9px rgba(50, 50, 50, 0.58);
+	-moz-box-shadow:    7px 7px 9px rgba(50, 50, 50, 0.58);
+	box-shadow:         7px 7px 9px rgba(50, 50, 50, 0.58);
+	border-radius: 5px;
+}
+.menu li{
+	display: inline;
+	padding:7px 5px;
+}
+.menu li:hover{
+	background: #FFFFFF;
+}
+.menu li a{
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+}
+.menu li:hover a{
+
+	text-decoration: none;
+	color: black;
+}
+.contenedor{
+	max-width: 1050px;
+	margin: 0 auto;
+}
+.contenedor header{
+	margin: 30px 0px 0px 0px;
+    border-bottom: 1px solid rgb(221, 221, 221);
+}
+.contenido{
+	margin: 30px 0px 30px 0px;
+	text-align: center;
+}
+.contenido h1 {
+    border-bottom: 1px solid rgb(221, 221, 221);
+}
+.separador{
+	clear: both;
+	border-bottom: 1px solid rgb(221, 221, 221);
+}
+ .noticia{
+    overflow: hidden;
+ }
+ .noticia a{
+ 	clear: both;
+	float: right;
+ }

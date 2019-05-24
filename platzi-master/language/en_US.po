@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Platzi 1.0\n"
+"POT-Creation-Date: 2015-10-26 19:07-0300\n"
+"PO-Revision-Date: 2015-10-26 19:07-0300\n"
+"Last-Translator: Edgardo Raúl Galletto | WebModerna <info@webmoderna.com."
+"ar>\n"
+"Language-Team: Equipo de Platzi <info@platzi.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_x;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: category.php:19
+#, php-format
+msgid "Categoría: \"%s\""
+msgstr "Categories: \"%s\""
+
+#: category.php:45 index.php:38 single.php:38 tag.php:45
+msgid "Clasificado en:"
+msgstr "Classified in: "
+
+#: category.php:49 index.php:42 single.php:42 tag.php:49
+msgid "Etiquetado en:"
+msgstr "Tagged in:"
+
+#: category.php:67
+msgid "En esta categoría no hay nada publicado."
+msgstr "In this category there is nothing published."
+
+#: footer.php:12
+msgid "Todos los derechos reservados."
+msgstr "All rights reserved."
+
+#: footer.php:16
+msgid "Desarrollado por"
+msgstr "Powered by"
+
+#: functions.php:37
+msgid "Menú Principal"
+msgstr "Main Menu"
+
+#: index.php:60
+msgid "No hay nada publicado."
+msgstr "There is nothing published."
+
+#: page.php:43
+msgid "No hay nada publicado en esta página."
+msgstr "There is nothing posted on this page."
+
+#: single.php:57
+msgid "No hay nada publicado hasta ahora."
+msgstr "There is nothing published here."
+
+#: tag.php:19
+#, php-format
+msgid "Etiqueta: \"%s\""
+msgstr "Tag: \"%s\""
+
+#: tag.php:67
+msgid "En esta etiqueta no hay nada publicado."
+msgstr "On this tag there is nothing published."
